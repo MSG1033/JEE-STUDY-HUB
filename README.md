@@ -1,2 +1,2 @@
-# JEE-STUDY-HUB
+# JEE-STUDY-TRACKER
 Free JEE study hub for all of ya......  
